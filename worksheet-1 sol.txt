@@ -1,0 +1,93 @@
+WEB SCRAPING
+WORKSHEET – 1
+
+Solution
+
+In Q1 to Q9, only one option is correct, Choose the correct option:
+1.	Which of the following extracts information from user generated content?
+A)	Java script tagging	B) Web scraping
+C) A/B testing	D) MROCs
+
+Ans – Web Scraping
+
+2.	Which of the following is not a web scraping library in python?
+A)	selenium	B) Beautiful soup
+C) Requests	C) scrapy
+
+Ans - Request
+
+3.	Selenium tests 	?
+A)	Browser based applications	B) DOS applications
+C) GUI applications	D) All of the above
+
+Ans – All of  the above 
+
+4.	Task of crawling is performed by a complex software which is known as:
+A)	Scraper	B) Crawler
+C) Boat	D) Spider
+
+               Ans - Spider
+
+5.	Which of the following commands is used to access name of a tag in Beautiful Soup?
+A)	tag.attrs	B) tag.name
+C) tag,id	C) tag[‘id’]
+
+Ans  - tag.attrs	
+
+6.	Which of the following is the default parser in Beautiful Soup?
+A)	html.parser	B) html5lib
+C) lxml	D) lxml-xml
+
+              Ans -  lxml
+
+
+
+
+7.	In selenium the webdriver is used to?
+A)	design a test using selenese
+B)	test a web application on firefox only
+C)	execute tests on HtmlUnit browser
+D)	to download any content from a webpage
+
+Ans - Execute tests on HtmlUnit browser
+
+
+8.	In selenium, driver.find_elements_by_xpath(‘given xpath’) returns:
+A)	the first webelement associated with the ‘given xpath’
+B)	the url of first webelement associated with the ‘given xpath’
+C)	the list of all webelements associated with the ‘given xpath’
+D)	all the attributes of the first webelement associated with the ‘given xpath’
+
+Ans - All the attributes of the first webelement associated with the ‘given xpath’
+
+
+9.	The script ‘window.scrollBy(0,a) scrolls the webpage by?
+A)	‘a’ number of horizontal spaces
+B)	‘a’ number of lines
+C)	‘a’ number of pixels horizontally
+D)	‘a’ number of pixels vertically
+
+Ans - ‘a’ number of pixels vertically
+
+
+In Q10, more than one options are correct, Choose all the correct options:
+10.	Which of the following is(are) tags of HTML?
+A)	<a>	B) <b>
+C) <image>	D) <href>
+
+
+Ans -  <image> <b> <a>
+
+
+Q10 to Q13 are subjective answer type questions, Answer them briefly.
+11.	What is the main difference between a web scraper and a web crawler?
+Ans – Web Scraping is a technique used to extract data from websites and web Scraper does not follow  robots,txt rules and web crawler is used for indexing of web pages  it visits each and every page and it follow robots.txt rule
+
+12.	What is ‘robots.txt’ file? What is the use of ‘robots.txt’ file?
+
+Ans - It is a file which contain allow and disallow  pages  if it is disallow  we can not  crawl that website page because when we crawl the data , It will read the robots,txt file first.
+
+13.	What are static and dynamic web pages?
+
+Ans –  In static web pages  database is not used and the complexity of static pages are less and it display same content for every user and the dynamic web pages display different content  for every user and in dynamic web pages database is used and the complexity is high.
+
